@@ -1,3 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntulatest
+MAINTAINER srinath
 ADD . /var/www/html
 
