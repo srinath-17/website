@@ -1,2 +1,3 @@
-FROM jenkinsci/blueocean
+FROM ubuntu:latest
 ADD . /var/www/html
+
